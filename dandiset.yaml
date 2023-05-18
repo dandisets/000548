@@ -10,22 +10,43 @@ assetsSummary:
   numberOfBytes: 0
   numberOfFiles: 0
   schemaKey: AssetsSummary
-citation: Silkuniene, Giedre (2023) Effect of the number of pulses on electroporation
-  by unipolar and 50 % bipolar pulses (Version draft) [Data set]. DANDI archive. https://dandiarchive.org/dandiset/000548/draft
+citation: Silkuniene, Giedre; Kim, Vitalii; Semenov, Iurii; Pakhomov, Andrei     (2023)
+  Effect of the number of pulses on electroporation by unipolar and 50 % bipolar pulses
+  (Version draft) [Data set]. DANDI archive. https://dandiarchive.org/dandiset/000548/draft
 contributor:
 - affiliation: []
   email: giedre.silkuniene@gmail.com
+  identifier: 0000-0001-8436-9718
   includeInCitation: true
   name: Silkuniene, Giedre
   roleName:
   - dcite:ContactPerson
   schemaKey: Person
-- awardNumber: 1R21EY034258
+- awardNumber: R21EY034258
   contactPoint: []
   includeInCitation: false
+  name: National Institutes of Health
   roleName:
   - dcite:Funder
   schemaKey: Organization
+- affiliation: []
+  identifier: 0000-0003-0699-5582
+  includeInCitation: true
+  name: Kim, Vitalii
+  roleName: []
+  schemaKey: Person
+- affiliation: []
+  identifier: 0000-0002-0302-1355
+  includeInCitation: true
+  name: Semenov, Iurii
+  roleName: []
+  schemaKey: Person
+- affiliation: []
+  identifier: 0000-0003-3816-3860
+  includeInCitation: true
+  name: 'Pakhomov, Andrei    '
+  roleName: []
+  schemaKey: Person
 dateCreated: '2023-05-18T19:57:30.449061+00:00'
 description: Trains of 5, 10, or 15 pulses all at 1 Hz. Cells were electroporated
   by a train of 5, 10, or 15 unipolar 600 ns pulses (0 percent) or bipolar 600 + 600
@@ -44,11 +65,21 @@ manifestLocation:
 name: Effect of the number of pulses on electroporation by unipolar and 50 % bipolar
   pulses
 protocol: []
-relatedResource: []
+relatedResource:
+- name: Action spectra and mechanisms of (in) efficiency of bipolar electric pulses
+    at electroporation
+  relation: dcite:IsPublishedIn
+  schemaKey: Resource
+  url: https://doi.org/10.1016/j.bioelechem.2022.108319
 repository: https://dandiarchive.org
 schemaKey: Dandiset
 schemaVersion: 0.6.4
 studyTarget: []
 url: https://dandiarchive.org/dandiset/000548/draft
 version: draft
-wasGeneratedBy: []
+wasGeneratedBy:
+- identifier: R21EY034258
+  name: Targeted Neuromodulation by Nanosecond Pulsed Electric Fields
+  schemaKey: Project
+  used: []
+  wasAssociatedWith: []
