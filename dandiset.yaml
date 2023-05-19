@@ -60,6 +60,7 @@ contributor:
   roleName: []
   schemaKey: Person
 dateCreated: '2023-05-18T19:57:30.449061+00:00'
+datePublished: '2023-05-19T18:25:58.421224+00:00'
 description: Trains of 5, 10, or 15 pulses all at 1 Hz. Cells were electroporated
   by a train of 5, 10, or 15 unipolar 600 ns pulses (0 percent) or bipolar 600 + 600
   ns pulses (50 percent) at 1 Hz. 50% represents the second pulse's amplitude in relation
@@ -77,6 +78,18 @@ manifestLocation:
 name: Effect of the number of pulses on electroporation by unipolar and 50 % bipolar
   pulses
 protocol: []
+publishedBy:
+  endDate: '2023-05-19T18:25:58.421224+00:00'
+  id: urn:uuid:539b7697-0501-41cf-978c-e002bf63a0ed
+  name: DANDI publish
+  schemaKey: PublishActivity
+  startDate: '2023-05-19T18:25:58.421224+00:00'
+  wasAssociatedWith:
+  - id: urn:uuid:f519526e-5e51-41a4-b1c5-e02833f30f34
+    identifier: RRID:SCR_017571
+    name: DANDI API
+    schemaKey: Software
+    version: 0.1.0
 relatedResource:
 - name: Action spectra and mechanisms of (in) efficiency of bipolar electric pulses
     at electroporation
