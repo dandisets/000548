@@ -5,7 +5,7 @@
 "blob":
 "17ebd97a-8cfb-41b8-94a0-7c2ad438a5b6",
 "created":
-"2023-05-19T17:14:08.598288+00:00",
+"2023-05-19T17:14:08.598288Z",
 "metadata":
 {
 "@context":
@@ -172,7 +172,7 @@
 ]
 },
 "modified":
-"2023-05-19T18:25:58.523676+00:00",
+"2023-05-19T18:25:58.523676Z",
 "path":
 "sub-Fig3-Bi10-08/sub-Fig3-Bi10-08_ses-BPAE-bipolar-10pulses_image.nwb",
 "size":
@@ -184,7 +184,7 @@
 "blob":
 "aec52c69-b3df-44cc-8093-e369996e6130",
 "created":
-"2023-05-19T17:14:08.792811+00:00",
+"2023-05-19T17:14:08.792811Z",
 "metadata":
 {
 "@context":
@@ -351,7 +351,7 @@
 ]
 },
 "modified":
-"2023-05-19T18:25:58.577143+00:00",
+"2023-05-19T18:25:58.577143Z",
 "path":
 "sub-Fig3-Bi15-07/sub-Fig3-Bi15-07_ses-BPAE-bipolar-15pulses_image.nwb",
 "size":
@@ -363,7 +363,7 @@
 "blob":
 "6db0e5c4-a2ec-460f-a491-5ffd53c7a047",
 "created":
-"2023-05-19T17:14:21.113439+00:00",
+"2023-05-19T17:14:21.113439Z",
 "metadata":
 {
 "@context":
@@ -530,7 +530,7 @@
 ]
 },
 "modified":
-"2023-05-19T18:25:58.503803+00:00",
+"2023-05-19T18:25:58.503803Z",
 "path":
 "sub-Fig3-Bi15-09/sub-Fig3-Bi15-09_ses-BPAE-bipolar-15pulses_image.nwb",
 "size":
@@ -542,7 +542,7 @@
 "blob":
 "ed1c5a1f-520c-4ef6-b8d5-fd3e1f07249a",
 "created":
-"2023-05-19T17:14:09.089801+00:00",
+"2023-05-19T17:14:09.089801Z",
 "metadata":
 {
 "@context":
@@ -709,7 +709,7 @@
 ]
 },
 "modified":
-"2023-05-19T18:25:58.491506+00:00",
+"2023-05-19T18:25:58.491506Z",
 "path":
 "sub-Fig3-Bi15-13/sub-Fig3-Bi15-13_ses-BPAE-bipolar-15pulses_image.nwb",
 "size":
@@ -721,7 +721,7 @@
 "blob":
 "67897161-066f-4186-b787-c107d700cad7",
 "created":
-"2023-05-19T17:14:08.467830+00:00",
+"2023-05-19T17:14:08.467830Z",
 "metadata":
 {
 "@context":
@@ -888,7 +888,7 @@
 ]
 },
 "modified":
-"2023-05-19T18:25:58.482997+00:00",
+"2023-05-19T18:25:58.482997Z",
 "path":
 "sub-Fig3-Bi5-06/sub-Fig3-Bi5-06_ses-BPAE-bipolar-5pulses_image.nwb",
 "size":
@@ -900,7 +900,7 @@
 "blob":
 "89d36184-a279-4b24-b052-67228db1b775",
 "created":
-"2023-05-19T17:15:42.833042+00:00",
+"2023-05-19T17:15:42.833042Z",
 "metadata":
 {
 "@context":
@@ -1067,7 +1067,7 @@
 ]
 },
 "modified":
-"2023-05-19T18:25:58.588920+00:00",
+"2023-05-19T18:25:58.588920Z",
 "path":
 "sub-Fig3-Bi5-10/sub-Fig3-Bi5-10_ses-BPAE-bipolar-5pulses_image.nwb",
 "size":
@@ -1079,7 +1079,7 @@
 "blob":
 "74dd826f-393b-4938-ae8e-5ed0bac76de1",
 "created":
-"2023-05-19T17:15:42.835102+00:00",
+"2023-05-19T17:15:42.835102Z",
 "metadata":
 {
 "@context":
@@ -1246,7 +1246,7 @@
 ]
 },
 "modified":
-"2023-05-19T18:25:58.510487+00:00",
+"2023-05-19T18:25:58.510487Z",
 "path":
 "sub-Fig3-Bi5-12/sub-Fig3-Bi5-12_ses-BPAE-bipolar-5pulses_image.nwb",
 "size":
@@ -1258,7 +1258,7 @@
 "blob":
 "97ee020f-95bc-4004-8bf2-493b9c1362dd",
 "created":
-"2023-05-19T17:15:41.744166+00:00",
+"2023-05-19T17:15:41.744166Z",
 "metadata":
 {
 "@context":
@@ -1425,7 +1425,7 @@
 ]
 },
 "modified":
-"2023-05-19T18:25:58.531737+00:00",
+"2023-05-19T18:25:58.531737Z",
 "path":
 "sub-Fig3-Bi5-13/sub-Fig3-Bi5-13_ses-BPAE-bipolar-5pulses_image.nwb",
 "size":
@@ -1437,7 +1437,7 @@
 "blob":
 "ad1eb288-27ae-4b05-8020-eeff61f99525",
 "created":
-"2023-05-19T17:15:43.030593+00:00",
+"2023-05-19T17:15:43.030593Z",
 "metadata":
 {
 "@context":
@@ -1604,7 +1604,7 @@
 ]
 },
 "modified":
-"2023-05-19T18:25:58.538617+00:00",
+"2023-05-19T18:25:58.538617Z",
 "path":
 "sub-Fig3-Bi5-18/sub-Fig3-Bi5-18_ses-BPAE-bipolar-5pulses_image.nwb",
 "size":
@@ -1616,7 +1616,7 @@
 "blob":
 "ebee527f-1473-48d5-91db-b9779233c705",
 "created":
-"2023-05-19T17:15:43.857093+00:00",
+"2023-05-19T17:15:43.857093Z",
 "metadata":
 {
 "@context":
@@ -1783,7 +1783,7 @@
 ]
 },
 "modified":
-"2023-05-19T18:25:58.596512+00:00",
+"2023-05-19T18:25:58.596512Z",
 "path":
 "sub-Fig3-Uni10-02/sub-Fig3-Uni10-02_ses-BPAE-unipolar-10pulses_image.nwb",
 "size":
@@ -1795,7 +1795,7 @@
 "blob":
 "46a917de-3684-4b3d-92c2-fd258a344171",
 "created":
-"2023-05-19T17:16:49.449178+00:00",
+"2023-05-19T17:16:49.449178Z",
 "metadata":
 {
 "@context":
@@ -1962,7 +1962,7 @@
 ]
 },
 "modified":
-"2023-05-19T18:25:58.547341+00:00",
+"2023-05-19T18:25:58.547341Z",
 "path":
 "sub-Fig3-Uni10-04/sub-Fig3-Uni10-04_ses-BPAE-unipolar-10pulses_image.nwb",
 "size":
@@ -1974,7 +1974,7 @@
 "blob":
 "45cdea05-5e13-49e2-b465-f6294a06093f",
 "created":
-"2023-05-19T17:17:17.254666+00:00",
+"2023-05-19T17:17:17.254666Z",
 "metadata":
 {
 "@context":
@@ -2141,7 +2141,7 @@
 ]
 },
 "modified":
-"2023-05-19T18:25:58.563607+00:00",
+"2023-05-19T18:25:58.563607Z",
 "path":
 "sub-Fig3-Uni10-08/sub-Fig3-Uni10-08_ses-BPAE-unipolar-10pulses_image.nwb",
 "size":
@@ -2153,7 +2153,7 @@
 "blob":
 "e45b9b64-808d-4aeb-8c3b-e433f2b06a13",
 "created":
-"2023-05-19T17:17:17.345356+00:00",
+"2023-05-19T17:17:17.345356Z",
 "metadata":
 {
 "@context":
@@ -2320,7 +2320,7 @@
 ]
 },
 "modified":
-"2023-05-19T18:25:58.570207+00:00",
+"2023-05-19T18:25:58.570207Z",
 "path":
 "sub-Fig3-Uni10-14/sub-Fig3-Uni10-14_ses-BPAE-unipolar-10pulses_image.nwb",
 "size":
@@ -2332,7 +2332,7 @@
 "blob":
 "93e83a60-5df8-4794-9ede-265f05ebabc1",
 "created":
-"2023-05-19T17:17:15.451977+00:00",
+"2023-05-19T17:17:15.451977Z",
 "metadata":
 {
 "@context":
@@ -2499,7 +2499,7 @@
 ]
 },
 "modified":
-"2023-05-19T18:25:58.517157+00:00",
+"2023-05-19T18:25:58.517157Z",
 "path":
 "sub-Fig3-Uni15-01/sub-Fig3-Uni15-01_ses-BPAE-unipolar-15pulses_image.nwb",
 "size":
@@ -2511,7 +2511,7 @@
 "blob":
 "ced60846-855e-4b35-a7b7-0edc46d783e4",
 "created":
-"2023-05-19T17:17:17.013587+00:00",
+"2023-05-19T17:17:17.013587Z",
 "metadata":
 {
 "@context":
@@ -2678,7 +2678,7 @@
 ]
 },
 "modified":
-"2023-05-19T18:25:58.555247+00:00",
+"2023-05-19T18:25:58.555247Z",
 "path":
 "sub-Fig3-Uni15-05/sub-Fig3-Uni15-05_ses-BPAE-unipolar-15pulses_image.nwb",
 "size":
@@ -2690,7 +2690,7 @@
 "blob":
 "2b756b71-e3d5-4abb-8400-9fb36bc43d99",
 "created":
-"2023-05-19T17:17:38.212189+00:00",
+"2023-05-19T17:17:38.212189Z",
 "metadata":
 {
 "@context":
@@ -2857,7 +2857,7 @@
 ]
 },
 "modified":
-"2023-05-19T18:25:58.603465+00:00",
+"2023-05-19T18:25:58.603465Z",
 "path":
 "sub-Fig3-Uni15-09/sub-Fig3-Uni15-09_ses-BPAE-unipolar-15pulses_image.nwb",
 "size":
@@ -2869,7 +2869,7 @@
 "blob":
 "1cee6c2d-6427-438d-bfaa-014737f33319",
 "created":
-"2023-05-19T17:18:21.602540+00:00",
+"2023-05-19T17:18:21.602540Z",
 "metadata":
 {
 "@context":
@@ -3036,7 +3036,7 @@
 ]
 },
 "modified":
-"2023-05-19T18:25:58.625730+00:00",
+"2023-05-19T18:25:58.625730Z",
 "path":
 "sub-Fig3-Uni5-03/sub-Fig3-Uni5-03_ses-BPAE-unipolar-5pulses_image.nwb",
 "size":
@@ -3048,7 +3048,7 @@
 "blob":
 "03922b26-2eef-463d-a371-53a5f646996a",
 "created":
-"2023-05-19T17:18:21.116001+00:00",
+"2023-05-19T17:18:21.116001Z",
 "metadata":
 {
 "@context":
@@ -3215,7 +3215,7 @@
 ]
 },
 "modified":
-"2023-05-19T18:25:58.610130+00:00",
+"2023-05-19T18:25:58.610130Z",
 "path":
 "sub-Fig3-Uni5-06/sub-Fig3-Uni5-06_ses-BPAE-unipolar-5pulses_image.nwb",
 "size":
@@ -3227,7 +3227,7 @@
 "blob":
 "a9d00dda-8891-4f3a-869c-434ee142f67d",
 "created":
-"2023-05-19T17:18:21.472534+00:00",
+"2023-05-19T17:18:21.472534Z",
 "metadata":
 {
 "@context":
@@ -3394,7 +3394,7 @@
 ]
 },
 "modified":
-"2023-05-19T18:25:58.616718+00:00",
+"2023-05-19T18:25:58.616718Z",
 "path":
 "sub-Fig3-Uni5-07/sub-Fig3-Uni5-07_ses-BPAE-unipolar-5pulses_image.nwb",
 "size":
